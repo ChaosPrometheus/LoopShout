@@ -8,6 +8,10 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+## Скриншот
+
+<img width="519" height="670" alt="1" src="https://github.com/user-attachments/assets/33b959e8-ce4c-41e8-84c0-7ad888291301" />
+
 ## Возможности
 
 - Захват системного звука Windows (WASAPI Loopback)
